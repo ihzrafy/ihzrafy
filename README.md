@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Ijreww!
 
-<!--
-**ihzrafy/ihzrafy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me:
+- 🔭 I’m currently working on **awesome projects**.
+- 🌱 I’m currently learning **Angular & Node.js**.
+- 💬 Ask me about **web development, backend, and DevOps**.
+- 📫 How to reach me: [Email Me](ihzrafahrullizian@gmail.com)
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats:
+![JohnDoe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📡 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/johndoe)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/johndoe)
