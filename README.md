@@ -7,7 +7,7 @@
 - 📫 How to reach me: [Email Me](ihzrafahrullizian@gmail.com)
 
 ### 📊 GitHub Stats:
-![JohnDoe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&theme=radical)
+![JohnDoe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihzrafy&show_icons=true&theme=radical)
 
 ### 📡 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/johndoe)
