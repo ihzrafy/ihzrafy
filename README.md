@@ -13,4 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/johndoe)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/johndoe)
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
+![GitHub Followers](https://img.shields.io/github/followers/johnDoe?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/johnDoe?style=social)
+
