@@ -16,3 +16,5 @@
 ![GitHub Followers](https://img.shields.io/github/followers/johnDoe?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/johnDoe?style=social)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnDoe&layout=compact&theme=radical)
+
