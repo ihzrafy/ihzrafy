@@ -22,7 +22,7 @@
 </p>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yihzrafy&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihzrafy&show_icons=true&theme=radical)
 
 ---
 
