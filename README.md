@@ -6,15 +6,4 @@
 - 💬 Ask me about **web development, backend, and DevOps**.
 - 📫 How to reach me: [Email Me](ihzrafahrullizian@gmail.com)
 
-### 📊 GitHub Stats:
-![JohnDoe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihzrafy&show_icons=true&theme=radical)
-
-### 📡 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/johndoe)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/johndoe)
-
-![GitHub Followers](https://img.shields.io/github/followers/johnDoe?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/johnDoe?style=social)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnDoe&layout=compact&theme=radical)
 
