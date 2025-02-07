@@ -21,8 +21,7 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihzrafy&show_icons=true&theme=radical)
+
 
 ---
 
